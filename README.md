@@ -44,7 +44,3 @@ We welcome feedback and contributions to this analysis. If you have suggestions,
 ## License
 
 This analysis report is provided under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt the content for any purpose, provided you give appropriate credit.
-
----
-
-Feel free to modify and expand this README as needed to suit your project's specific requirements and context.
